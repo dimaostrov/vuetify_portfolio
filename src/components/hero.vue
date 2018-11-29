@@ -7,8 +7,8 @@
             </v-avatar>
             <h1 class="white--text mb-2 display-1 text-xs-center">Dmitriy Ostrovskiy</h1>
             <div class="subheading mb-3 text-xs-center">JS Developer</div>
-            <v-btn class="blue lighten-2 mt-5" dark large href="/pre-made-themes">
-                Chat in FB Messenger
+            <v-btn class="blue lighten-2 mt-5" dark large href="mailto:dmtrostrovskiy@gmail.com?Subject=Hire Dima!!">
+                Email
             </v-btn>
         </v-layout>
     </v-parallax>

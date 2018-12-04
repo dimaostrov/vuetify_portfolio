@@ -1,5 +1,10 @@
 # material_portfolio
 
+to sync with s3 run
+```
+aws s3 sync dist s3://www.dimaostrov.com
+```
+
 ## Project setup
 ```
 yarn install
